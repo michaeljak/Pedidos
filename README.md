@@ -1,4 +1,4 @@
-#a href='https://github.com/michaeljak'><img src='https://dl.dropboxusercontent.com/s/2042wlthpkfzjcv/banner-github-personal-page.png' height='50'></a>
+<a href='https://github.com/michaeljak'><img src='https://dl.dropboxusercontent.com/s/2042wlthpkfzjcv/banner-github-personal-page.png' height='50'></a>
 ## Pedidos
 
 # Sistema de Pedidos
