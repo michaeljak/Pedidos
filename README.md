@@ -1,3 +1,4 @@
+# <a href='https://github.com/michaeljak'><img src='https://drive.google.com/file/d/0B9SZvTEmvG_UOXVaOUxySlAtYnM/view?usp=sharing' height='50'></a>
 ## Pedidos
 
 # Sistema de Pedidos
@@ -17,4 +18,7 @@ validação de campos
 ![Safari](https://cloud.githubusercontent.com/assets/398893/3528331/29df8618-078e-11e4-8e3e-ed8ac738693f.png)
 --- | --- | --- | --- | --- |
 IE 9+ ✔ | Ultimas ✔ | Ultimas ✔ | Ultimas ✔ | Ultimas ✔ |
+
+
+Este projeto é licenciado sob os termos da [Licença MIT] (https://github.com/michaeljak/Pedidos/blob/master/LICENSE) © Michael Jakson
 
